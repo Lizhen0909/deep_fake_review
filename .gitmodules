@@ -1,0 +1,9 @@
+[submodule "CVPRW2019_Face_Artifacts"]
+	path = CVPRW2019_Face_Artifacts
+	url = https://github.com/yuezunli/CVPRW2019_Face_Artifacts
+[submodule "headpose_forensic"]
+	path = headpose_forensic
+	url = https://bitbucket.org/ericyang3721/headpose_forensic.git
+[submodule "Exploiting-Visual-Artifacts"]
+	path = Exploiting-Visual-Artifacts
+	url = https://github.com/FalkoMatern/Exploiting-Visual-Artifacts.git
