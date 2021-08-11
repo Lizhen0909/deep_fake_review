@@ -7,3 +7,6 @@
 [submodule "Exploiting-Visual-Artifacts"]
 	path = Exploiting-Visual-Artifacts
 	url = https://github.com/FalkoMatern/Exploiting-Visual-Artifacts.git
+[submodule "Capsule-Forensics-v2"]
+	path = Capsule-Forensics-v2
+	url = https://github.com/nii-yamagishilab/Capsule-Forensics-v2.git
