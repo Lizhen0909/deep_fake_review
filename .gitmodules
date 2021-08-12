@@ -13,3 +13,12 @@
 [submodule "ClassNSeg"]
 	path = ClassNSeg
 	url = https://github.com/nii-yamagishilab/ClassNSeg.git
+[submodule "DeepFakeDetection"]
+	path = DeepFakeDetection
+	url = https://github.com/cc-hpc-itwm/DeepFakeDetection.git
+[submodule "ManTraNet"]
+	path = ManTraNet
+	url = https://github.com/ISICV/ManTraNet.git
+[submodule "E2E-ForgeryDetection"]
+	path = E2E-ForgeryDetection
+	url = https://github.com/FrancescoMarra/E2E-ForgeryDetection
