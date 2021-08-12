@@ -10,3 +10,6 @@
 [submodule "Capsule-Forensics-v2"]
 	path = Capsule-Forensics-v2
 	url = https://github.com/nii-yamagishilab/Capsule-Forensics-v2.git
+[submodule "ClassNSeg"]
+	path = ClassNSeg
+	url = https://github.com/nii-yamagishilab/ClassNSeg.git
