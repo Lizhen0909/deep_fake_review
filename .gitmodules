@@ -31,3 +31,9 @@
 [submodule "patch-forensics"]
 	path = patch-forensics
 	url = https://github.com/chail/patch-forensics.git
+[submodule "CNNDetection"]
+	path = CNNDetection
+	url = https://github.com/peterwang512/CNNDetection
+[submodule "adversarial_deepfakes"]
+	path = adversarial_deepfakes
+	url = https://github.com/ApGa/adversarial_deepfakes
