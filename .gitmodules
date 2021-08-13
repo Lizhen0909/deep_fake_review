@@ -22,3 +22,12 @@
 [submodule "E2E-ForgeryDetection"]
 	path = E2E-ForgeryDetection
 	url = https://github.com/FrancescoMarra/E2E-ForgeryDetection
+[submodule "MesoNet"]
+	path = MesoNet
+	url = https://github.com/DariusAf/MesoNet.git
+[submodule "multiple-attention"]
+	path = multiple-attention
+	url = https://github.com/yoctta/multiple-attention
+[submodule "patch-forensics"]
+	path = patch-forensics
+	url = https://github.com/chail/patch-forensics.git
